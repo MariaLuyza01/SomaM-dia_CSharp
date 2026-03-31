@@ -12,3 +12,4 @@ C:\Users\RAM3JVL\OneDrive - Bosch Group\repositorio01\CSharp\SomaMédia\obj\Debu
 C:\Users\RAM3JVL\OneDrive - Bosch Group\repositorio01\CSharp\SomaMédia\obj\Debug\net8.0\SomaMédia.pdb
 C:\Users\RAM3JVL\OneDrive - Bosch Group\repositorio01\CSharp\SomaMédia\obj\Debug\net8.0\SomaMédia.genruntimeconfig.cache
 C:\Users\RAM3JVL\OneDrive - Bosch Group\repositorio01\CSharp\SomaMédia\obj\Debug\net8.0\ref\SomaMédia.dll
+C:\Users\RAM3JVL\OneDrive - Bosch Group\repositorio01\CSharp\SomaMédia\obj\Debug\net8.0\SomaMédia.sourcelink.json
